@@ -2,6 +2,7 @@
 node_modules
 /docs/.vitepress/dist
 
+.yarn
 
 # local env files
 .env.local
