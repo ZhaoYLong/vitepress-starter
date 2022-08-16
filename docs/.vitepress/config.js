@@ -66,7 +66,7 @@ export default {
       copyright: 'Copyright © 2019-present Evan You'
     },
     editLink: {
-      pattern: 'https://github.com/zhaoYLong/vitepress-starter/master/docs/:path',
+      pattern: 'https://github.com/ZhaoYLong/vitepress-starter/master/docs/:path',
       text: 'Edit this page on Github'
     }
   },
