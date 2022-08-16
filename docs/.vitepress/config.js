@@ -5,7 +5,7 @@ export default {
   description: 'Just playing around.',
   themeConfig: {
     siteTitle: 'VitePress Think',
-    logo: '/logo.png',
+    // logo: '/logo.png',
     nav: [
       { text: 'Foo', link: '/foo/' },
       { text: 'Bar', link: '/bar/' },

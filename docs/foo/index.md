@@ -137,8 +137,8 @@ export default { // Highlighted
 
 # Asset Handling
 ## Relating URLs
-![An image](./imgs/yw.png)
+<!-- ![An image](./imgs/yw.png) -->
 
 ## Public Files
-![Another Image](/yw.png)
+<!-- ![Another Image](/yw.png) -->
 
