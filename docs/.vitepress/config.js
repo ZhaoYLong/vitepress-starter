@@ -4,8 +4,8 @@ export default {
   title: 'VitePress',
   description: 'Just playing around.',
   themeConfig: {
-    siteTitle: 'VitePress Think',
-    // logo: '/logo.png',
+    siteTitle: 'VitePress Training',
+    logo: '/logo.jpeg',
     nav: [
       { text: 'Foo', link: '/foo/' },
       { text: 'Bar', link: '/bar/' },
@@ -46,7 +46,8 @@ export default {
           items: [
             { text: 'Foo Index', link: '/foo/' },
             { text: 'Foo one', link: '/foo/one' },
-            { text: 'Foo two', link: '/foo/two' }
+            { text: 'Foo two', link: '/foo/two' },
+            { text: 'Foo five', link: '/foo/five' },
           ]
         }
       ],
@@ -68,7 +69,11 @@ export default {
     editLink: {
       pattern: 'https://github.com/ZhaoYLong/vitepress-starter/master/docs/:path',
       text: 'Edit this page on Github'
-    }
+    },
+    // carbonAds: {
+    //   code: 'your-carbon-code',
+    //   placement: 'your-carbon-placement'
+    // }
   },
   markdown: {
     // anchor: {
